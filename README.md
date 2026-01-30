@@ -37,7 +37,7 @@ Le script de création se trouvera dans le dossier `Database/script.sql`.
 - Structurer un projet C# de façon claire
 
 - ## Captures d’écran
-![Interface](Gestioninventaire/Screenshots/interface.png)
+![Interface](GestionInventaire/Screenshots/interface.png)
 ![Ajout produit](Screenshots/ajout-produit.png)
 ![Liste produits](Screenshots/liste-produits.png)
 
