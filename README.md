@@ -38,6 +38,6 @@ Le script de création se trouvera dans le dossier `Database/script.sql`.
 
 - ## Captures d’écran
 ![Interface](GestionInventaire/Screenshots/interface.png)
-![Ajout produit](GestionInventaire/Screenshots/ajout-produit.png)
+![Ajout produit](GestionInventaire/Screenshots/ajout-produits.png)
 ![Liste produits](GestionInventaire/Screenshots/liste-produits.png)
 
